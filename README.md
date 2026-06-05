@@ -5,7 +5,8 @@ Cricket Master is a cricket prediction and fantasy app built using Python + Stre
 It provides live match data, AI predictions, fantasy gameplay, and offline support.
 
 📸 Preview
-<img width="1280" height="720" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/228ed06e-26b3-41bf-87c4-c5cba564088e" />
+<img width="1280" height="720" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/1b6f2413-139a-49a8-b873-60d19c107e72" />
+
 
 
 ✨ Features
